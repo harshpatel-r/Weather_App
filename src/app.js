@@ -31,7 +31,9 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
     res.render("about", {
         title: "About Me",
-        name: "Harsh Patel"
+        name: "Harsh Patel",
+        developer : "Developer : Harsh Patel",
+        email : "Email : harsh239001@gmail.com"
     })
 });
 
@@ -39,7 +41,7 @@ app.get('/help', (req, res) => {
     res.render("help", {
         title: 'Help',
         name: "Harsh Patel",
-        helptext: 'this is some helpful text'
+        helptext: 'If you find any bug in this app then contact me on this email id: harsh239001@gmail.com'
     })
 });
 

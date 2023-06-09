@@ -68,6 +68,23 @@ If you have any questions or need assistance, please open an issue and provide d
 
 Let's make this project better together! 🚀
 
+## 🤝 How to Start Contributing
+
+Contributions are welcome! If you're interested in contributing to the weather web app, please follow these steps:
+
+1. **Fork** the repository on GitHub.
+2. **Clone** the forked repository to your local machine.
+3. **Create** a new branch for your feature or bug fix.
+4. **Make** the necessary changes in your branch.
+5. **Commit** your changes and push the branch to your forked repository.
+6. **Submit** a pull request to the main repository.
+
+Please ensure that your contributions align with the coding conventions and guidelines set in the project. If you're unsure about anything or need guidance, feel free to open an issue to discuss your ideas or seek clarification.
+
+We appreciate your contributions and efforts in making this weather app even better! Thank you for your support.
+
+🌤️ Happy coding! 🌈
+
 ---
 
 Thank you for visiting my weather web app! I hope you find it useful for obtaining real-time weather information. If you have any questions or feedback, please feel free to reach out. Happy coding!
